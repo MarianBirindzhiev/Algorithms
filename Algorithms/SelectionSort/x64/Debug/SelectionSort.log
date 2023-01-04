@@ -1,0 +1,5 @@
+﻿  selectionSort.cpp
+D:\Programs\VisualStudio\Algorithms\Algorithms\SelectionSort\selectionSort.cpp(10,8): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Programs\VisualStudio\Algorithms\Algorithms\SelectionSort\selectionSort.cpp(11,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Programs\VisualStudio\Algorithms\Algorithms\SelectionSort\selectionSort.cpp(7,9): warning C4101: 'l': unreferenced local variable
+  SelectionSort.vcxproj -> D:\Programs\VisualStudio\Algorithms\Algorithms\x64\Debug\SelectionSort.exe
