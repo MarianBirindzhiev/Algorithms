@@ -13,7 +13,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InsertionSort", "insertionS
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SelectionSort", "SelectionSort\SelectionSort.vcxproj", "{EEA7BACB-FD17-432B-A2B1-5554E5242A1B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "quick", "quick\quick.vcxproj", "{46B33851-E9EF-47FE-8020-CDF24B83FD4E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{11E6C8B7-BF74-487D-BDCE-BFE7372631BA}"
+	ProjectSection(SolutionItems) = preProject
+		QuickSort\quickSort.cpp = QuickSort\quickSort.cpp
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,14 +66,6 @@ Global
 		{EEA7BACB-FD17-432B-A2B1-5554E5242A1B}.Release|x64.Build.0 = Release|x64
 		{EEA7BACB-FD17-432B-A2B1-5554E5242A1B}.Release|x86.ActiveCfg = Release|Win32
 		{EEA7BACB-FD17-432B-A2B1-5554E5242A1B}.Release|x86.Build.0 = Release|Win32
-		{46B33851-E9EF-47FE-8020-CDF24B83FD4E}.Debug|x64.ActiveCfg = Debug|x64
-		{46B33851-E9EF-47FE-8020-CDF24B83FD4E}.Debug|x64.Build.0 = Debug|x64
-		{46B33851-E9EF-47FE-8020-CDF24B83FD4E}.Debug|x86.ActiveCfg = Debug|Win32
-		{46B33851-E9EF-47FE-8020-CDF24B83FD4E}.Debug|x86.Build.0 = Debug|Win32
-		{46B33851-E9EF-47FE-8020-CDF24B83FD4E}.Release|x64.ActiveCfg = Release|x64
-		{46B33851-E9EF-47FE-8020-CDF24B83FD4E}.Release|x64.Build.0 = Release|x64
-		{46B33851-E9EF-47FE-8020-CDF24B83FD4E}.Release|x86.ActiveCfg = Release|Win32
-		{46B33851-E9EF-47FE-8020-CDF24B83FD4E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
