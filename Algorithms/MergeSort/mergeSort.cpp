@@ -42,7 +42,7 @@ void mergeSort(std::vector<int>& inputArray, int begin, int end)
     if (begin >= end)
         return;
 
-    int mid = begin + (end-begin) / 2;
+    int mid = (begin + end) / 2;
     mergeSort(inputArray, begin, mid);
     mergeSort(inputArray, mid + 1, end);
     merge(inputArray, begin, mid, end);
